@@ -10,10 +10,118 @@
     top: 51%
     right: 30%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+// Margenes Negativos 
+.mn
+  margin: 0 -3rem
+
+// FONDOS ////R
+.intro-f-1
+  background-image: url('../assets/curso/portada/intro-f-1.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-1-1
+  background-image: url('../assets/curso/temas/f-1-1.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-2-1
+  background-image: url('../assets/curso/temas/f-2-1.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-2-2
+  background-image: url('../assets/curso/temas/f-2-2.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-2-3
+  background-image: url('../assets/curso/temas/f-2-3.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-3-1
+  background-image: url('../assets/curso/temas/f-3-1.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-3-2
+  background-image: url('../assets/curso/temas/f-3-2.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+.f-4-1
+  background-image: url('../assets/curso/temas/f-4-1.png')
+  background-position: 0 0
+  background-repeat: no-repeat
+  background-size: cover
+
+// FONDOS ////R
+
+//DISENOS 
+
+.tarjeta-adornos
+  border-radius: 20px
+  position: relative
+  background-color: #effaf4
+  overflow: hidden
+  &::before
+    content: url(../assets/curso/temas/t1.svg)
+    position: absolute
+    width: 80px
+    top: -80px
+    left: -40px
+  &::after
+    content: url(../assets/curso/temas/t2.svg)
+    position: absolute
+    width: 80px
+    bottom: -80px
+    right: 10px
+.tarjeta-adornos-2
+  border-radius: 20px
+  position: relative
+  background-color: #daf2e4
+  overflow: hidden
+  &::after
+    content: url(../assets/curso/temas/t2.svg)
+    position: absolute
+    width: 80px
+    bottom: -80px
+    right: 10px
+
+.titulo-tres
+  position: relative
+  border-radius: 50px
+  background-color: $color-secundario
+  display: inline-block
+  padding: .5rem
+  h3
+    margin: 0 40px
+  &::before
+    content: url(../assets/curso/temas/t3.svg)
+    position: absolute
+    left: 0
+    top: 0
+
+// MODIFICACIONES BASE ////R
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: $color-acento-botones
+  border: 0
+  i
+    color: $white
+.tarjeta--amarilla
+  background-color: #fae9b5
+.acordion__activo
+  background-color: #fdf6df
+.acordion__accion__btn--a
+  background-color: #283de2
+  i
+    color: white

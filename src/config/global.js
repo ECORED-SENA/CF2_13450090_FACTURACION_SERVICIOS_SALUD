@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Fundamentos de facturación en el sistema de salud colombiano ',
+    descripcionCurso:
+      'Este componente cubre la legislación relevante para la facturación en el sistema de salud colombiano, los procesos de liquidación de servicios, y la gestión y análisis de las facturas desde el punto de vista contable y administrativo. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -51,6 +53,18 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
+        titulo: 'Titulo de primer nivel',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Titulo de primer nivel',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
         titulo: 'Titulo de primer nivel',
         desarrolloContenidos: true,
       },

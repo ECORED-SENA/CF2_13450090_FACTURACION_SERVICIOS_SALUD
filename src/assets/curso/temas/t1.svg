@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81.258" height="156.86" viewBox="0 0 81.258 156.86">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401633" data-name="Rectángulo 401633" width="81.258" height="156.86" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="t1" clip-path="url(#clip-path)">
+    <path id="Trazado_877878" data-name="Trazado 877878" d="M40.629,156.86A40.675,40.675,0,0,1,0,116.231V0H.534V116.231a40.095,40.095,0,1,0,80.189,0V0h.534V116.231A40.675,40.675,0,0,1,40.629,156.86"/>
+    <path id="Trazado_877879" data-name="Trazado 877879" d="M46.422,150.975a34.783,34.783,0,0,1-34.744-34.743V0h.534V116.232a34.21,34.21,0,0,0,68.419,0V0h.534V116.232a34.783,34.783,0,0,1-34.743,34.743" transform="translate(-5.793 0)"/>
+    <path id="Trazado_877880" data-name="Trazado 877880" d="M52.215,145.09a28.891,28.891,0,0,1-28.859-28.858V0h.534V116.232a28.324,28.324,0,0,0,56.649,0V0h.534V116.232A28.891,28.891,0,0,1,52.215,145.09" transform="translate(-11.586 0)"/>
+    <path id="Trazado_877881" data-name="Trazado 877881" d="M58.008,139.2a23,23,0,0,1-22.973-22.973V0h.534V116.231a22.439,22.439,0,1,0,44.878,0V0h.534V116.231A23,23,0,0,1,58.008,139.2" transform="translate(-17.379 0)"/>
+  </g>
+</svg>
