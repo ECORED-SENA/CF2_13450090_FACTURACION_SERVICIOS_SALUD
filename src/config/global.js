@@ -153,11 +153,96 @@ export default {
       significado:
         'emisión de un documento o registro por la entidad responsable del pago para la prestación de los servicios requeridos por el usuario. si la entidad no responde en los términos definidos, basta con el soporte de la solicitud enviada.',
     },
+    {
+      termino: 'Conciliación',
+      significado:
+        'mecanismo de solución de conflictos entre cobrador y pagador del servicio de salud, donde un tercero neutral ayuda a gestionar las diferencias.',
+    },
+    {
+      termino: 'Devolución',
+      significado:
+        'no conformidad que afecta totalmente la factura y que impide su presentación. las causales son específicas como falta de competencia para el pago, ausencia de documentos esenciales, entre otros.',
+    },
+    {
+      termino: 'Entidades responsables del pago',
+      significado:
+        'direcciones de salud, EPS de regímenes contributivo y subsidiado, entidades adaptadas, y administradoras de riesgos profesionales.',
+    },
+    {
+      termino: 'Epicrisis',
+      significado:
+        'resumen de la historia clínica del paciente que recibió servicios de urgencia o hospitalización, con detalles específicos definidos en normativa.',
+    },
+    {
+      termino: 'Glosa',
+      significado:
+        'no conformidad que afecta parcial o totalmente el valor de la factura durante la revisión integral por la entidad responsable del pago, requiriendo resolución por parte del prestador de servicios de salud.',
+    },
+    {
+      termino: 'Pago por capitación',
+      significado:
+        'pago anticipado por persona, basado en un conjunto de servicios preestablecido.',
+    },
+    {
+      termino: 'Pago por evento',
+      significado:
+        'pago que se realiza por actividades, procedimientos, intervenciones, insumos y medicamentos prestados o suministrados a un paciente en un periodo específico, relacionado con un evento de salud.',
+    },
+    {
+      termino: 'Prestadores de servicios de salud',
+      significado:
+        'pago que se realiza por actividades, procedimientos, intervenciones, insumos y medicamentos prestados o suministrados a un paciente en un periodo específico, relacionado con un evento de salud.',
+    },
+    {
+      termino: 'Red de prestación de servicios',
+      significado:
+        'conjunto articulado de prestadores de servicios de salud que trabajan organizada y coordinadamente, orientados por principios de complementariedad y subsidiariedad.',
+    },
+    {
+      termino: 'Referencia y contrarreferencia',
+      significado:
+        'procesos que permiten la adecuada prestación de servicios de salud a los pacientes, asegurando calidad y accesibilidad.',
+    },
   ],
   referencias: [
     {
       referencia:
-        'Congreso de Colombia. (9 de enero de 2007). Regula la relación existente entre responsables del pago y prestadores de servicios de salud. ',
+        'Congreso de Colombia. (9 de enero de 2007). Regula la relación existente entre responsables del pago y prestadores de servicios de salud.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (07 de diciembre de 2007). Por medio del cual se regulan algunos aspectos de las relaciones entre los prestadores de servicios de salud y las entidades responsables del pago de los servicios de salud de la población a su cargo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (14 de Agosto de 2008). Por medio de la cual se definen los formatos, mecanismos de envío, procedimientos y términos a ser implementados en las relaciones entre prestadores de servicios de salud y entidades responsables del pago de servicios de salud, definidos en el Decreto 4747 de 2007.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (19 de diciembre de 2012). Por medio de la cual se adiciona y modifica parcialmente la resolución 3047 de 2008 modificada por la resolución 416 de 2009.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (6 de mayo de 2015). Procedimiento para el cobro y pago de servicios y tecnologías sin cobertura en el POS, suministrados a los afiliados al Régimen Subsidiado.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (26 de diciembre de 2016). Por la cual se modifica el Plan de Beneficios en Salud con cargo a la Unidad de Pago por Capitación (UPC). Incluye los anexos técnicos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (11 de abril de 2017). Por la cual se modifica la Resolución 4678 de 2015 modificada por la Resolución 5975 de 2016, que adoptó la Clasificación Única de Procedimiento en Salud — CUPS.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (22 de mayo de 2017). Por la cual se sustituye el Anexo 2 “Listado de Procedimientos en Salud del Plan de Beneficios en Salud con cargo a la UPC” de la Resolución 6408 de 2016 y se dictan otras disposiciones.',
       link: '',
     },
   ],
