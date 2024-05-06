@@ -120,31 +120,44 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'El Plan Obligatorio de Salud (POS)',
+      referencia: 'MinSaludCol (2023). 16. Plan de Beneficios en Salud – PBS.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=4hRfc0rhaFA&ab_channel=MinSaludCol',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Manual SOAT y Manual ISS',
+      referencia: 'APESEG VIDEOS (2022). ¿Sabes qué es el SOAT?.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=SXBnauTvpLw&ab_channel=APESEGVIDEOS',
+    },
+    {
+      tema: 'La factura como documento contable',
+      referencia:
+        'Actualícese Video (2019). Empresas de salud: proceso de contabilización.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=0zmDKc28H7Y&ab_channel=Actual%C3%ADceseVideo',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Acuerdo de voluntades',
+      significado:
+        'acto mediante el cual una parte se compromete con otra a dar, hacer o no hacer algo.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Autorización',
+      significado:
+        'emisión de un documento o registro por la entidad responsable del pago para la prestación de los servicios requeridos por el usuario. si la entidad no responde en los términos definidos, basta con el soporte de la solicitud enviada.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Congreso de Colombia. (9 de enero de 2007). Regula la relación existente entre responsables del pago y prestadores de servicios de salud. ',
       link: '',
     },
   ],
@@ -168,8 +181,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Claudia Patricia Velásquez Orozco',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Formación en Talento Humano en Salud - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -178,23 +197,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortes García',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
