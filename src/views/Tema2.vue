@@ -136,7 +136,7 @@
             p.text-white.mb-0 La UVR, o "unidad de valor relativo constante", califica la complejidad del procedimiento o intervención en términos de recursos humanos y tecnológicos necesarios para su realización. Esto incluye tiempos quirúrgicos y de recuperación, controles y riesgos para el paciente. 
     p.mb-5(data-aos='fade-right') #[b En la siguiente tabla encontrará las unidades establecidas para la UVR mencionada en el manual tarifario: ]
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 2.
           span Cantidad UVR según procedimiento 

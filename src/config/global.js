@@ -37,17 +37,9 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Liquidación de los Servicios de Salud normatividad',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
@@ -151,7 +143,7 @@ export default {
     {
       termino: 'Autorización',
       significado:
-        'emisión de un documento o registro por la entidad responsable del pago para la prestación de los servicios requeridos por el usuario. si la entidad no responde en los términos definidos, basta con el soporte de la solicitud enviada.',
+        'emisión de un documento o registro por la entidad responsable del pago para la prestación de los servicios requeridos por el usuario. Si la entidad no responde en los términos definidos, basta con el soporte de la solicitud enviada.',
     },
     {
       termino: 'Conciliación',
@@ -161,7 +153,7 @@ export default {
     {
       termino: 'Devolución',
       significado:
-        'no conformidad que afecta totalmente la factura y que impide su presentación. las causales son específicas como falta de competencia para el pago, ausencia de documentos esenciales, entre otros.',
+        'no conformidad que afecta totalmente la factura y que impide su presentación. Las causales son específicas como falta de competencia para el pago, ausencia de documentos esenciales, entre otros.',
     },
     {
       termino: 'Entidades responsables del pago',
@@ -171,7 +163,7 @@ export default {
     {
       termino: 'Epicrisis',
       significado:
-        'resumen de la historia clínica del paciente que recibió servicios de urgencia o hospitalización, con detalles específicos definidos en normativa.',
+        'resumen de la historia clínica del paciente que recibió servicios de urgencia u hospitalización, con detalles específicos definidos en normativa.',
     },
     {
       termino: 'Glosa',
@@ -297,22 +289,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },

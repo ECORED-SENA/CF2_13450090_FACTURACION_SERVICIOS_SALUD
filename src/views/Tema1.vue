@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Tema 1 
+      h1 Liquidación de los Servicios de Salud normatividad
     p.mb-5(data-aos='fade-right') El proceso de liquidación de servicios de salud está regulado, ya que se trata de un asunto de gran importancia para garantizar el adecuado desempeño financiero de cualquier institución del sector salud. Sin embargo, es necesario tener en cuenta las modalidades de contratación, las tarifas pactadas y los manuales tarifarios, entre otros factores. 
       br
       br

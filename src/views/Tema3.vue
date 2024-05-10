@@ -85,7 +85,7 @@
         .row.justify-content-center.mb-5.g-0
           .col-lg-5.d-none.d-lg-block: img(src='@/assets/curso/temas/37.png', alt='')
           .col-lg-7
-            p.mb-0.p-5 Los cirujanos que realizan la operación en la sala de operaciónLa mayoría de los procedimientos o intervenciones quirúrgicas requieren que el paciente sea ingresado al establecimiento donde se realizará la prestación. Esto es debido a la necesidad de soporte para la complejidad de la intervención, la tecnología aplicada, el cuidado postoperatorio del paciente y, en general, para todas las posibles complicaciones que puedan surgir tanto por la condición clínica del paciente como por la magnitud de la cirugía. Actualmente, gracias a los avances tecnológicos y en técnicas quirúrgicas, existen intervenciones quirúrgicas mínimamente invasivas. 
+            p.mb-0.p-5 La mayoría de los procedimientos o intervenciones quirúrgicas requieren que el paciente sea ingresado al establecimiento donde se realizará la prestación. Esto es debido a la necesidad de soporte para la complejidad de la intervención, la tecnología aplicada, el cuidado postoperatorio del paciente y, en general, para todas las posibles complicaciones que puedan surgir tanto por la condición clínica del paciente como por la magnitud de la cirugía. Actualmente, gracias a los avances tecnológicos y en técnicas quirúrgicas, existen intervenciones quirúrgicas mínimamente invasivas. 
 
 
 

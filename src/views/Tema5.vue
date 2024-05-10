@@ -150,56 +150,56 @@
               h4 Facturación
               p Se presenta una glosa por facturación cuando hay diferencias entre el tipo y la cantidad de los servicios prestados y los facturados, cuando los conceptos pagados por el usuario no se descuentan en la factura (copagos, cuotas moderadoras, periodos de carencia u otros), o cuando se presentan errores administrativos generados en los procesos de facturación definidos en este manual.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/85.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Tarifas
               p Se glosa por tarifas cuando existen diferencias entre los valores facturados y los pactados.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/86.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Soportes
               p Se consideran glosas por soportes cuando hay ausencia, enmiendas o soportes incompletos o ilegibles.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/87.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Autorización
               p Se aplican glosas por autorización cuando los servicios facturados no fueron autorizados o difieren de los incluidos en la autorización de la entidad responsable del pago, o cuando se cobran servicios con documentos o firmas adulteradas.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/89.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Cobertura
               p Se consideran glosas por cobertura todas aquellas generadas por cobro de servicios que no están incluidos en el respectivo plan.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/90.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Pertinencia
               p Se consideran glosas por pertinencia todas aquellas que se generan por la falta de coherencia entre la historia clínica y las ayudas diagnósticas solicitadas o el tratamiento ordenado, a la luz de las guías de atención o de la auditoría médica.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/91.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Devoluciones
               p Es una no conformidad que afecta completamente la factura, encontrada por la entidad responsable del pago durante la revisión preliminar y que impide dar por presentada la factura. Las causales de devolución son concretas y se refieren a la falta de competencia para el pago, falta de autorización principal, falta de epicrisis, hoja de atención de urgencias u odontograma, factura o documento equivalente que no cumple los requisitos legales, servicio electivo no autorizado, profesional que ordena no adscrito en el caso de servicios ambulatorios de carácter electivo, y servicio ya cancelado.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/92.png', alt='')
           .row.justify-content-center
             .col-lg-8.mb-4.mb-md-0
               h4 Respuestas a glosas o devoluciones
               p Las respuestas a glosas y devoluciones deben interpretarse en todos los casos como la respuesta que el prestador de servicios de salud da a la glosa o devolución generada por la entidad responsable del pago. La codificación incluye tres dígitos: el primero indica los conceptos generales, y los dos siguientes, los conceptos específicos dentro de cada concepto general.
             .col-lg-4.col-7
-              figure
+              figure.pr-3
                 img(src='@/assets/curso/temas/93.png', alt='')
     .f-5-2.mn.p-5
       h4.mb-5 Ejemplo de codificación de glosa: 
@@ -250,7 +250,7 @@
                     | Ausencia del informe de atención inicial de urgencias.
                   li
                     i.fas.fa-check-circle(style="color: #59836B")
-                    | Factura que no cumple los requisitos legales.Factura ya cancelada.
+                    | Factura que no cumple los requisitos legales. Factura ya cancelada.
       p.mb-5(data-aos='fade-right') #[b El trámite que establece la ley 1438 de 2011 respecto a los tiempos que se deben tener en cuenta son los siguientes: ]
 
     //todo! COMPLETAR ACORDION!!! 
@@ -259,15 +259,15 @@
       .col-lg-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .p-4(titulo="Formulación y comunicación de glosas por las entidades responsables ")
-            p.mb-0 
+            p.mb-0 Las entidades tienen 20 días hábiles tras la presentación de la factura para formular y comunicar las glosas a los prestadores, basándose en la codificación y alcance de la normatividad vigente. Una vez formuladas, no se pueden añadir nuevas glosas a la misma factura, excepto por hechos nuevos detectados en la respuesta a la glosa inicial. 
           .p-4(titulo="Respuesta a glosas por el prestador de servicios de salud ")
             p.mb-0 El prestador debe responder a las glosas dentro de los 15 días hábiles siguientes a su recepción, indicando aceptación o justificando la no aceptación. 
           .p-4(titulo="Decisión de la entidad responsable del pago tras recibir la respuesta ")
-            p.mb-0 
+            p.mb-0 La entidad tiene 10 días hábiles tras recibir la respuesta del prestador para decidir si levanta total o parcialmente las glosas o las mantiene como definitivas.
           .p-4(titulo="Subsanación de glosas no levantadas ")
-            p.mb-0 
+            p.mb-0 Si tras 15 días hábiles el prestador considera que la glosa es subsanable, tiene un máximo de 7 días hábiles para corregir y reenviar las facturas a la entidad. 
           .p-4(titulo="Pago de valores por glosas levantadas ")
-            p.mb-0 
+            p.mb-0 Los valores por glosas levantadas, ya sea total o parcialmente, deben ser pagados dentro de los 5 días hábiles siguientes a su levantamiento, informando al prestador las razones de las glosas o su proporción que no fueron levantadas.
       .col-lg-4.col-7: img(src='@/assets/curso/temas/97.png', alt='')
     p.mb-5(data-aos='fade-right') Todo registro debe estar consignado en actas que soporten las acciones de las personas, sus roles en la operación y sus identificaciones, así como la fecha y los compromisos adquiridos en cada una de las reuniones sostenidas. 
       br
@@ -291,7 +291,7 @@
     .titulo-tres.mb-4: h3 Gestión y análisis de cartera \
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-7.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/100.svg', alt='')
-      .col-lg-11: p.mb-0 La gestión de la cartera es muy importante en una empresa, y se realiza con el ánimo de recuperar de manera pronta la inversión realizada como el capital de trabajo y garantizar la liquidez de la entidad. Esta tarea debe ser trabajada de forma eficiente y responsable porque puede implicar la pérdida de recursos, puesto que se está financiando a los clientes con los recursos de infraestructura, talento humano y financiero propios. 
+      .col-lg-11: p.mb-0 La gestión de la cartera es muy importante en una empresa, y se realiza con el ánimo de recuperar de manera pronta la inversión realizada como el capital de trabajo y garantizar la liquidez de la entidad. Esta tarea debe ser trabajada de forma eficiente y responsable porque puede implicar la pérdida de recursos, puesto que se está financiando a los clientes con los recursos de infraestructura, talento humano y financiero propio. 
     .f-5-3.mn.p-5
       .row.justify-content-center.mb-5
         .col-lg-6
