@@ -83,7 +83,7 @@
           p.mb-0 Registro de anestesia
       .col-lg-3.mb-lg-4.mb-3
         .d-flex.p-4.align-items-center(style="background-color: #daf2e4")
-          img(src='@/assets/curso/temas/48.svg', alt='' style="width: 72px ").mx-3
+          img(src='@/assets/curso/temas/48b.svg', alt='' style="width: 72px ").mx-3
           p.mb-0 Comprobante de recibido del usuario
       .col-lg-3.mb-lg-4.mb-3
         .d-flex.p-4.align-items-center(style="background-color: #daf2e4")
@@ -128,7 +128,7 @@
     .titulo-tres.mb-5: h3 Aplicativos de facturación 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.mb-lg-0.mb-3(data-aos="fade-right")
-        p.mb-0 Existen múltiples software en el mercado colombiano para el sector salud. No hay un sistema operativo específico para la facturación en Colombia, pero el aplicativo adoptado debe cumplir con los criterios de elaboración, revisión y aprobación del documento para garantizar que se ha completado el proceso de ingreso de información para las facturas, revisión de pertinencia médica y aprobación para su generación y cobro. 
+        p.mb-0 Existen múltiples #[em software] en el mercado colombiano para el sector salud. No hay un sistema operativo específico para la facturación en Colombia, pero el aplicativo adoptado debe cumplir con los criterios de elaboración, revisión y aprobación del documento para garantizar que se ha completado el proceso de ingreso de información para las facturas, revisión de pertinencia médica y aprobación para su generación y cobro. 
       .col-lg-3(data-aos="fade-left"): img(src='@/assets/curso/temas/59.svg', alt='')
     .titulo-tres.mb-5: h3 Registros contables 
     p.mb-5(data-aos='fade-right') Nos enfocaremos en los costos, ya que todas las actividades y procedimientos en las instituciones de salud deben ser costeados. La contabilidad de costos registra, compendia, analiza e interpreta los detalles de los costos de materiales, mano de obra y cargos indirectos. Los elementos del costo en salud se clasifican generalmente en: 

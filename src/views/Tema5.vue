@@ -50,7 +50,7 @@
               img(src='@/assets/curso/temas/69.svg' alt='AvatarTop' style="width: 57px ; top: 50px")
               .tarjeta.color-secundario--borde.w-100
                 .p-4
-                  p El responsable del área financiera realiza el asiento contable en el software, a partir de la radicación de la cuenta de cobro ante el pagador, luego de lo cual se debe iniciar el seguimiento y acciones de cobro. 
+                  p El responsable del área financiera realiza el asiento contable en el #[em software], a partir de la radicación de la cuenta de cobro ante el pagador, luego de lo cual se debe iniciar el seguimiento y acciones de cobro. 
             .tarjeta-avatar
               img(src='@/assets/curso/temas/70.svg' alt='AvatarTop' style="width: 57px ; top: 50px")
               .tarjeta.color-secundario--borde.w-100
@@ -288,7 +288,7 @@
       .col-lg-4
         .p-4(style="background-color: #effaf4")
           p.mb-0 El Gobierno Nacional, mediante el Decreto 1429 de 2016, modificó la estructura de la ADRES; igualmente, el Decreto 546 de 2017 estableció el 1 de agosto de 2017 como fecha a partir de la cual entrará en operación la ADRES. En virtud de lo anterior, tal y como lo señala la ley, una vez entre en operación la ADRES, se suprimirá el FOSYGA.” Tomado del ABC de implementación del ADRES.
-    .titulo-tres.mb-4: h3 Gestión y análisis de cartera \
+    .titulo-tres.mb-4: h3 Gestión y análisis de cartera
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-7.mb-lg-0.mb-3(data-aos="fade-right"): img(src='@/assets/curso/temas/100.svg', alt='')
       .col-lg-11: p.mb-0 La gestión de la cartera es muy importante en una empresa, y se realiza con el ánimo de recuperar de manera pronta la inversión realizada como el capital de trabajo y garantizar la liquidez de la entidad. Esta tarea debe ser trabajada de forma eficiente y responsable porque puede implicar la pérdida de recursos, puesto que se está financiando a los clientes con los recursos de infraestructura, talento humano y financiero propio. 

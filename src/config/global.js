@@ -96,7 +96,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/13450090_CF2_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -283,6 +283,11 @@ export default {
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'Edgar Mauricio Cortes García',
+          cargo: 'Actividad didáctica',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
@@ -295,7 +300,7 @@ export default {
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles ',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
