@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Fundamentos de facturación en el sistema de salud colombiano**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_13450090_FACTURACION_SERVICIOS_SALUD/](https://ecored-sena.github.io/CF2_13450090_FACTURACION_SERVICIOS_SALUD/)
 
 #
 

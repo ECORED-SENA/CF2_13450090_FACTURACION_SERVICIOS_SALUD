@@ -1,6 +1,6 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
     top: 20%
     right: 75%
@@ -10,7 +10,7 @@
     top: 51%
     right: 70%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 10%
@@ -21,6 +21,16 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-principal__img
+  width: 440px
 
 // Margenes Negativos 
 .mn
@@ -52,6 +62,7 @@
   background-position: 0 0
   background-repeat: no-repeat
   background-size: cover
+  margin-bottom: -48px
 .f-3-1
   background-image: url('../assets/curso/temas/f-3-1.png')
   background-position: 0 0

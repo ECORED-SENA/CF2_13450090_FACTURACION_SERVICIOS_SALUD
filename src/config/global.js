@@ -43,7 +43,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'El Plan Obligatorio de Salud (POS)',
+        titulo: 'Plan de Beneficios en Salud (PBS)',
         desarrolloContenidos: true,
       },
       {
@@ -112,26 +112,20 @@ export default {
   },
   complementario: [
     {
-      tema: 'El Plan Obligatorio de Salud (POS)',
-      referencia: 'MinSaludCol (2023). 16. Plan de Beneficios en Salud – PBS.',
-      tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=4hRfc0rhaFA&ab_channel=MinSaludCol',
-    },
-    {
-      tema: 'Manual SOAT y Manual ISS',
-      referencia: 'APESEG VIDEOS (2022). ¿Sabes qué es el SOAT?.',
-      tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=SXBnauTvpLw&ab_channel=APESEGVIDEOS',
-    },
-    {
-      tema: 'La factura como documento contable',
+      tema: 'Plan de Beneficios en Salud (PBS)',
       referencia:
-        'Actualícese Video (2019). Empresas de salud: proceso de contabilización.',
-      tipo: 'Video',
+        'Resolución 2366 de 2023. Por la cual se actualizan integralmente los servicios y tecnologías de salud financiados con recursos de la Unidad de Pago por Capitación (UPC).',
+      tipo: 'Página web',
       link:
-        'https://www.youtube.com/watch?v=0zmDKc28H7Y&ab_channel=Actual%C3%ADceseVideo',
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucio%CC%81n%20No%202366%20de%202023.pdf',
+    },
+    {
+      tema: 'Plan de Beneficios en Salud (PBS)',
+      referencia:
+        'Decreto 780 de 2016 Sector Salud y Protección Social. Por medio del cual se expide el Decreto Único Reglamentario del Sector Salud y Protección Social.',
+      tipo: 'Página web',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813',
     },
   ],
   glosario: [
