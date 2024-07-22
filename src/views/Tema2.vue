@@ -7,7 +7,7 @@
         span 2
       h1 Plan de Beneficios en Salud (PBS)
     p(data-aos='fade-left') El Plan de Beneficios en Salud, PBS, sigla manejada actualmente, está determinada por la Resolución 2366 de 2023, la cual actualiza integralmente los servicios y tecnologías de salud, financiados con recursos de la Unidad de Pago por Capitación (UPC).
-    p.mb-5(data-aos='fade-right') Incluye un conjunto de acciones de prevención de la enfermedad y de recuperación de la salud desde la medicina preventiva básica hasta diversos tratamientos de alta complejidad, incluyendo: 
+    p.mb-5(data-aos='fade-right') Incluye un conjunto de acciones de prevención de la enfermedad y de recuperación de la salud, desde la medicina preventiva básica hasta diversos tratamientos de alta complejidad, incluyendo: 
     .row.justify-content-center.mb-3(data-aos='fade-right')
       .col-md-8.col-lg-3.mb-lg-0.mb-3
         .p-5(style="background-color: #fae9b5 ").h-100.py-4
@@ -58,7 +58,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-2.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/20.svg', style="width: 140px" alt='').m-auto
             .col-lg-10.text-white
-              p La norma hoy que determina el régimen tarifario, es el Decreto Reglamentario Único 780 de 2016.
+              p La norma que hoy determina el régimen tarifario, es el Decreto Reglamentario Único 780 de 2016.
               p.mb-0 Para este régimen tarifario actual (manual SOAT), las tarifas de actividades anteriormente se determinaban según su factor establecido en SMLDV, desde el año 2022, por el Decreto 2644, se reclasifican estos factores en UVT (unidades de valor tributario).
     p.mb-5(data-aos='fade-right') Las entidades prestadoras de servicios de salud deben aplicar la liquidación de procedimientos cuando se trate de #[b víctimas de accidentes de tránsito, desastres naturales, atentados terroristas, atención inicial de urgencias y otros eventos catastróficos] definidos por el Consejo Nacional de Seguridad Social en Salud.
     p.mb-4(data-aos='fade-right') #[b A continuación, se hace una descripción teniendo como base el Manual de Tarifas SOAT y de acuerdo con cada uno de los siguientes capítulos: ]

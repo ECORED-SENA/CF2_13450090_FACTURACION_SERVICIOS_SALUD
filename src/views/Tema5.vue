@@ -67,7 +67,7 @@
               img(src='@/assets/curso/temas/72.svg' alt='AvatarTop' style="width: 57px ; top: 50px")
               .tarjeta.color-secundario--borde.w-100
                 .p-4
-                  p Se debe confirmar si efectivamente el pago fue realizado y si éste ingresó a la institución. 
+                  p Se debe confirmar si efectivamente el pago fue realizado y si este ingresó a la institución. 
             .tarjeta-avatar
               img(src='@/assets/curso/temas/73.svg' alt='AvatarTop' style="width: 57px ; top: 50px")
               .tarjeta.color-secundario--borde.w-100

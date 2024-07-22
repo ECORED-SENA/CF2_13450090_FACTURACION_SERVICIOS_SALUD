@@ -24,7 +24,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-7(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/3.png', alt='')
         .col-lg-8(data-aos='fade-left')
-          p.mb-0 Por esta razón, las IPS deben implementar procesos de auditoría para evaluar la calidad del servicio prestado y analizar las cuentas post-facturación. Este procedimiento asegura que toda la documentación respaldatoria esté correctamente presentada y facilita la adopción de medidas correctivas que fortalecen las actividades administrativas relacionadas con la liquidación de los servicios de salud. 
+          p.mb-0 Por esta razón, las IPS deben implementar procesos de auditoría para evaluar la calidad del servicio prestado y analizar las cuentas postfacturación. Este procedimiento asegura que toda la documentación respaldatoria esté correctamente presentada y facilita la adopción de medidas correctivas que fortalecen las actividades administrativas relacionadas con la liquidación de los servicios de salud. 
             br
             br
             |Además, las entidades responsables de los pagos adoptan estrategias similares, como la creación de áreas de auditoría médica. En estas áreas, el equipo administrativo gestiona la revisión de las facturas, mientras que el equipo médico evalúa la pertinencia de los servicios brindados, basándose en su experiencia y conocimientos. Esto asegura una alta calidad en la prestación de los servicios y el cumplimiento adecuado de los protocolos de atención.

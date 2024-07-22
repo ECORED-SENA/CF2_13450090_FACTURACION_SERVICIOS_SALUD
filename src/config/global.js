@@ -167,7 +167,7 @@ export default {
     {
       termino: 'Pago por capitación',
       significado:
-        'pago anticipado por persona, basado en un conjunto de servicios preestablecido.',
+        'pago anticipado por persona, basado en un conjunto de servicios preestablecidos.',
     },
     {
       termino: 'Pago por evento',
@@ -177,7 +177,7 @@ export default {
     {
       termino: 'Prestadores de servicios de salud',
       significado:
-        'pago que se realiza por actividades, procedimientos, intervenciones, insumos y medicamentos prestados o suministrados a un paciente en un periodo específico, relacionado con un evento de salud.',
+        'se consideran como tales las instituciones prestadoras de servicios de salud y los grupos de práctica profesional que cuentan con infraestructura física para prestar servicios de salud y que se encuentran habilitados. Para efectos del presente decreto, se incluyen los profesionales independientes de salud y los servicios de transporte especial de pacientes que se encuentren habilitados.',
     },
     {
       termino: 'Red de prestación de servicios',
@@ -203,7 +203,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (14 de Agosto de 2008). Por medio de la cual se definen los formatos, mecanismos de envío, procedimientos y términos a ser implementados en las relaciones entre prestadores de servicios de salud y entidades responsables del pago de servicios de salud, definidos en el Decreto 4747 de 2007.',
+        'Ministerio de Salud y Protección Social. (14 de agosto de 2008). Por medio de la cual se definen los formatos, mecanismos de envío, procedimientos y términos a ser implementados en las relaciones entre prestadores de servicios de salud y entidades responsables del pago de servicios de salud, definidos en el Decreto 4747 de 2007.',
       link: '',
     },
     {
